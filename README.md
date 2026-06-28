@@ -273,3 +273,7 @@ provenance_guard/
   storage.py                    SQLite submissions + audit_log
 planning.md                     architecture, spec, diagram, AI tool plan
 ```
+
+## Demo video
+
+https://youtu.be/gCvnDfClAOo
